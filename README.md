@@ -6,8 +6,8 @@
 [![Bower version](https://badge.fury.io/bo/angular-bootstrap-calendar.svg)](http://badge.fury.io/bo/angular-bootstrap-calendar)
 [![npm version](https://badge.fury.io/js/angular-bootstrap-calendar.svg)](http://badge.fury.io/js/angular-bootstrap-calendar)
 [![devDependency Status](https://david-dm.org/mattlewis92/angular-bootstrap-calendar/dev-status.svg)](https://david-dm.org/mattlewis92/angular-bootstrap-calendar?type=dev)
-[![GitHub issues](https://img.shields.io/github/issues/mattlewis92/angular-bootstrap-calendar.svg)](https://github.com/mattlewis92/angular-bootstrap-calendar/issues)
-[![GitHub stars](https://img.shields.io/github/stars/mattlewis92/angular-bootstrap-calendar.svg)](https://github.com/mattlewis92/angular-bootstrap-calendar/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/mattlewis92/angular-bootstrap-calendar.svg)](https://github.com/abrahampeh/angular-bootstrap-calendar/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mattlewis92/angular-bootstrap-calendar.svg)](https://github.com/abrahampeh/angular-bootstrap-calendar/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mattlewis92/angular-bootstrap-calendar/master/LICENSE)
 
 ## Table of contents
@@ -34,7 +34,7 @@ All credits for the UI/UX and the less files of the calendar go to the original 
 
 Pull requests are welcome.
 
-Looking for an angular 2.0+ version of this library? Check this out: https://github.com/mattlewis92/angular-calendar
+Looking for an angular 2.0+ version of this library? Check this out: https://github.com/abrahampeh/angular-calendar
 
 ## Installation
 
@@ -309,7 +309,7 @@ moment.locale('en_gb', {
 });
 ```
 
-For a full list of all available formats and their defaults see [calendarConfig.js](https://github.com/mattlewis92/angular-bootstrap-calendar/blob/master/src/services/calendarConfig.js)
+For a full list of all available formats and their defaults see [calendarConfig.js](https://github.com/abrahampeh/angular-bootstrap-calendar/blob/master/src/services/calendarConfig.js)
 
 ## Development
 
