@@ -48,10 +48,10 @@
       ng-class="dayEvent.event.cssClass"
       ng-style="{
         top: dayEvent.top - 1 + 'px',
-        left: dayEvent.left + 10 + 'px',
-        height: dayEvent.height + 'px',
-        width: dayEvent.width + 'px',
-        backgroundColor: dayEvent.event.color.secondary,
+        left: (dayEvent.left/150)*10 + 10 + 'px',
+        height: 0 + 'px',
+        width: 0 + 'px',
+        backgroundColor: dayEvent.event.color.primary,
         borderColor: dayEvent.event.color.primary
       }"
       mwl-draggable="dayEvent.event.draggable === true"

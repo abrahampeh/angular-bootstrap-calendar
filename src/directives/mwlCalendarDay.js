@@ -28,6 +28,7 @@ angular
       );
 
       vm.allDayEvents = view.allDayEvents;
+      view.events.left = (view.events.left / 150) * 10;
       vm.nonAllDayEvents = view.events;
       vm.viewWidth = view.width + 62;
 

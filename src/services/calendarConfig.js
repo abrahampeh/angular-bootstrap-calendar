@@ -33,7 +33,7 @@ angular
         },
         title: {
           day: 'dddd D MMMM, YYYY',
-          week: 'Week {week} of {year}',
+          week: 'Semana {week} de {year}',
           month: 'MMMM YYYY',
           year: 'YYYY'
         }
@@ -49,7 +49,7 @@ angular
     showTimesOnWeekView: false,
     displayAllMonthEvents: false,
     i18nStrings: {
-      weekNumber: 'Week {week}'
+      weekNumber: 'Semana {week}'
     },
     templates: {},
     colorTypes: {
