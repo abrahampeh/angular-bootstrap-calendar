@@ -1,12 +1,12 @@
 {
-  "name": "angular-bootstrap-calendar2",
+  "name": "angular-bootstrap-calendar-abraham",
   "description": "A pure AngularJS bootstrap themed responsive calendar that can display events and has views for year, month, week and day",
   "version": "0.27.6",
-  "homepage": "https://github.com/abrahampeh/angular-bootstrap-calendar",
+  "homepage": "https://github.com/abrahampeh/angular-bootstrap-calendar-abraham",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abrahampeh/angular-bootstrap-calendar.git"
+    "url": "https://github.com/abrahampeh/angular-bootstrap-calendar-abraham.git"
   },
   "files": [
     "dist",
